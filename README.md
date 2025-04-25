@@ -1,8 +1,7 @@
 ## Hi 👋, I am Sami
 ### I am a Computer Systems Engineer have expertise of:
-- Blockchain Development (over 3 months of experience)
-- Mobile Apps Development (over 2 years of experience)
-- Web Development (over 4 years of experience)
+- Mobile Apps Development (over 6 years of experience)
+- Web Development (over 10 years of experience)
 
 <!--
 **samycodes/samycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
